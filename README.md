@@ -131,7 +131,7 @@ Frontend runs at: `http://localhost:3000`
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 **Praveen Dangi**  
 🔗 [GitHub](https://github.com/Praveen9440) | 
